@@ -1,3 +1,7 @@
+# Ethernaut Challenge #01 Fallback
+
+## Ethernaut challenge #01 (Fallback) Solution
+
 Ethernaut is an online platform that provides security challenges for Ethereum smart contracts. The first challenge in Ethernaut is designed to test the user’s knowledge and skills in identifying and exploiting vulnerabilities in smart contracts. In this challenge, users are required to take control of a vulnerable smart contract and modify its behaviour. This article provides a detailed explanation of the vulnerability in the first Ethernaut challenge, as well as a step-by-step guide on how to solve it.
 
 ### The Vulnerability:
